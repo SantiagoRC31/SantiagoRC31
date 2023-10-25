@@ -2,8 +2,12 @@
 <h3 align="center">I am a passionate Full Stack Developer with a strong background in web development, focusing on teamwork and data analysis. Specialized in creating dynamic and functional web applications, my technical skills encompass key technologies such as React, Redux, HTML, CSS, Node.js, Express, PostgreSQL, and Sequelize for secure data storage. Furthermore, I am an effective communicator, creative problem-solver, and eager to learn and adapt to new technologies and challenges.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/santiago-ramirez-49b3b7271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-ramirez-49b3b7271/" height="30" width="40" /></a>
+<p align="center">
+	<a href="mailto:santiagoramirescardona@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/SantiagoRC31"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/santiago-ramirez-49b3b7271/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</a>
+	
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
